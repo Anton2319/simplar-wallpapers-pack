@@ -1,10 +1,10 @@
 Package: simplar-wallpapers
-Version: 1.0-1
+Version: 1.0-2
 Provides: simplar-wallpapers
 Maintainer: Anton2319 <anton_2319@outlook.com>
 Architecture: all
 Section: other
-Description: Simlar wallpapers pack, contains 9 wallpapers
+Description: Simlar wallpapers pack, contains 9 4k wallpapers
 Origin: https://github.com/Anton2319/simplar-wallpapers-pack/pack.tar.gz
 Installed-Size: 21198
 Priority: optional
